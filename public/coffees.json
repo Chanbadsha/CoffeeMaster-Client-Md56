@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Americano Coffee",
+    "chef": "Mr. Matin Paul",
+    "price": "890 Taka",
+    "image": "path/to/coffee-cup-image-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Latte Coffee",
+    "chef": "Ms. Sophia Turner",
+    "price": "950 Taka",
+    "image": "path/to/coffee-cup-image-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Espresso Coffee",
+    "chef": "Mr. John Smith",
+    "price": "850 Taka",
+    "image": "path/to/coffee-cup-image-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Cappuccino Coffee",
+    "chef": "Ms. Emily Davis",
+    "price": "920 Taka",
+    "image": "path/to/coffee-cup-image-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Mocha Coffee",
+    "chef": "Mr. Liam Brown",
+    "price": "1000 Taka",
+    "image": "path/to/coffee-cup-image-5.png"
+  },
+  {
+    "id": 6,
+    "name": "Caramel Macchiato",
+    "chef": "Ms. Olivia Johnson",
+    "price": "1050 Taka",
+    "image": "path/to/coffee-cup-image-6.png"
+  },
+  {
+    "id": 7,
+    "name": "Flat White",
+    "chef": "Mr. Noah Wilson",
+    "price": "870 Taka",
+    "image": "path/to/coffee-cup-image-7.png"
+  },
+  {
+    "id": 8,
+    "name": "Irish Coffee",
+    "chef": "Ms. Ava Martinez",
+    "price": "1100 Taka",
+    "image": "path/to/coffee-cup-image-8.png"
+  },
+  {
+    "id": 9,
+    "name": "Iced Coffee",
+    "chef": "Mr. Mason Lee",
+    "price": "800 Taka",
+    "image": "path/to/coffee-cup-image-9.png"
+  },
+  {
+    "id": 10,
+    "name": "Cold Brew",
+    "chef": "Ms. Isabella Perez",
+    "price": "950 Taka",
+    "image": "path/to/coffee-cup-image-10.png"
+  },
+  {
+    "id": 11,
+    "name": "Turkish Coffee",
+    "chef": "Mr. Elijah White",
+    "price": "980 Taka",
+    "image": "path/to/coffee-cup-image-11.png"
+  },
+  {
+    "id": 12,
+    "name": "Affogato Coffee",
+    "chef": "Ms. Mia Harris",
+    "price": "990 Taka",
+    "image": "path/to/coffee-cup-image-12.png"
+  }
+]
